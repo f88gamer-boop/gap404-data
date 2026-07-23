@@ -1,7 +1,7 @@
 {
- "updated": "2026-07-23T01:27:24.191212+03:00",
- "updated_ksa": "2026-07-23 01:27",
- "days_of_history": 2,
+ "updated": "2026-07-24T01:10:31.652266+03:00",
+ "updated_ksa": "2026-07-24 01:10",
+ "days_of_history": 3,
  "count": 20,
  "errors": 0,
  "items": [
@@ -14,7 +14,7 @@
    "rmeez_price": 42.0,
    "rmeez_qty": 10,
    "dawaa_price": 49.59,
-   "dawaa_stock": 842,
+   "dawaa_stock": 843,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "241188"
@@ -28,7 +28,7 @@
    "rmeez_price": 45.87,
    "rmeez_qty": 9,
    "dawaa_price": 45.0,
-   "dawaa_stock": 442,
+   "dawaa_stock": 440,
    "dawaa_status": "inStock",
    "cheaper": "comp",
    "key": "237853"
@@ -54,9 +54,9 @@
    "du": "https://www.al-dawaa.com/Category/Mum-and-Baby/Baby-Bath/Shampoo-%26-Conditioner/Pigeon%2C-Natural-Botanical-Baby-Shampoo---500-Ml/p/237849",
    "code": "237849",
    "rmeez_price": 45.87,
-   "rmeez_qty": 5,
+   "rmeez_qty": 4,
    "dawaa_price": 45.0,
-   "dawaa_stock": 461,
+   "dawaa_stock": 459,
    "dawaa_status": "inStock",
    "cheaper": "comp",
    "key": "237849"
@@ -98,7 +98,7 @@
    "rmeez_price": 26.0,
    "rmeez_qty": 4,
    "dawaa_price": 26.0,
-   "dawaa_stock": 149,
+   "dawaa_stock": 147,
    "dawaa_status": "inStock",
    "cheaper": "eq",
    "key": "234859"
@@ -112,7 +112,7 @@
    "rmeez_price": 33.0,
    "rmeez_qty": 10,
    "dawaa_price": 35.95,
-   "dawaa_stock": 3132,
+   "dawaa_stock": 3111,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "205832"
@@ -126,7 +126,7 @@
    "rmeez_price": 33.0,
    "rmeez_qty": 5,
    "dawaa_price": 35.95,
-   "dawaa_stock": 3271,
+   "dawaa_stock": 3233,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "205833"
@@ -140,7 +140,7 @@
    "rmeez_price": 42.0,
    "rmeez_qty": 9,
    "dawaa_price": 49.59,
-   "dawaa_stock": 377,
+   "dawaa_stock": 378,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "241189"
@@ -154,7 +154,7 @@
    "rmeez_price": 25.0,
    "rmeez_qty": 21,
    "dawaa_price": 28.49,
-   "dawaa_stock": 976,
+   "dawaa_stock": 970,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "238443"
@@ -210,7 +210,7 @@
    "rmeez_price": 16.44,
    "rmeez_qty": 35,
    "dawaa_price": 18.65,
-   "dawaa_stock": 2453,
+   "dawaa_stock": 2441,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "207154"
@@ -224,7 +224,7 @@
    "rmeez_price": 26.0,
    "rmeez_qty": 23,
    "dawaa_price": 27.0,
-   "dawaa_stock": 470,
+   "dawaa_stock": 468,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "237850"
@@ -238,7 +238,7 @@
    "rmeez_price": 25.5,
    "rmeez_qty": 8,
    "dawaa_price": 32.6,
-   "dawaa_stock": 2197,
+   "dawaa_stock": 2203,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "202770"
@@ -252,7 +252,7 @@
    "rmeez_price": 30.0,
    "rmeez_qty": 24,
    "dawaa_price": 35.95,
-   "dawaa_stock": 8056,
+   "dawaa_stock": 8082,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "236694"
@@ -264,9 +264,9 @@
    "du": "https://www.al-dawaa.com/Category/Personal-Hygiene/Travel-Minis/Glysolid%2C-Cream%2C-Soft-Classic---200-Ml/p/203466",
    "code": "203466",
    "rmeez_price": 29.0,
-   "rmeez_qty": 9,
+   "rmeez_qty": 8,
    "dawaa_price": 26.11,
-   "dawaa_stock": 1568,
+   "dawaa_stock": 1558,
    "dawaa_status": "inStock",
    "cheaper": "comp",
    "key": "203466"
