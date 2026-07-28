@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-28T01:13:41.970027+03:00",
- "updated_ksa": "2026-07-28 01:13",
+ "updated": "2026-07-29T01:14:49.994514+03:00",
+ "updated_ksa": "2026-07-29 01:14",
  "days_of_history": 3,
  "count": 20,
  "errors": 0,
@@ -14,7 +14,7 @@
    "rmeez_price": null,
    "rmeez_qty": 10,
    "dawaa_price": 49.59,
-   "dawaa_stock": 835,
+   "dawaa_stock": 833,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "241188"
@@ -42,7 +42,7 @@
    "rmeez_price": null,
    "rmeez_qty": 5,
    "dawaa_price": 29.0,
-   "dawaa_stock": 53,
+   "dawaa_stock": 52,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "237852"
@@ -56,7 +56,7 @@
    "rmeez_price": null,
    "rmeez_qty": 4,
    "dawaa_price": 45.0,
-   "dawaa_stock": 465,
+   "dawaa_stock": 460,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "237849"
@@ -68,7 +68,7 @@
    "du": "https://www.al-dawaa.com/Category/Mum-and-Baby/Baby-Bath/Shampoo-%26-Conditioner/Pigeon%2C-Natural-Botanical-Baby-Shampoo---200-Ml/p/237848",
    "code": "237848",
    "rmeez_price": null,
-   "rmeez_qty": 16,
+   "rmeez_qty": 15,
    "dawaa_price": 27.0,
    "dawaa_stock": 27,
    "dawaa_status": "inStock",
@@ -98,7 +98,7 @@
    "rmeez_price": null,
    "rmeez_qty": 4,
    "dawaa_price": 26.0,
-   "dawaa_stock": 145,
+   "dawaa_stock": 141,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "234859"
@@ -112,7 +112,7 @@
    "rmeez_price": null,
    "rmeez_qty": 10,
    "dawaa_price": 35.95,
-   "dawaa_stock": 3102,
+   "dawaa_stock": 3076,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "205832"
@@ -126,7 +126,7 @@
    "rmeez_price": null,
    "rmeez_qty": 5,
    "dawaa_price": 35.95,
-   "dawaa_stock": 3167,
+   "dawaa_stock": 3100,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "205833"
@@ -140,7 +140,7 @@
    "rmeez_price": null,
    "rmeez_qty": 9,
    "dawaa_price": 49.59,
-   "dawaa_stock": 367,
+   "dawaa_stock": 364,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "241189"
@@ -154,7 +154,7 @@
    "rmeez_price": null,
    "rmeez_qty": 21,
    "dawaa_price": 28.49,
-   "dawaa_stock": 986,
+   "dawaa_stock": 982,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "238443"
@@ -168,7 +168,7 @@
    "rmeez_price": null,
    "rmeez_qty": 9,
    "dawaa_price": 25.76,
-   "dawaa_stock": 106,
+   "dawaa_stock": 99,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "241386"
@@ -182,7 +182,7 @@
    "rmeez_price": null,
    "rmeez_qty": 18,
    "dawaa_price": 30.28,
-   "dawaa_stock": 53,
+   "dawaa_stock": 52,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "239280"
@@ -196,7 +196,7 @@
    "rmeez_price": null,
    "rmeez_qty": 9,
    "dawaa_price": 743.1,
-   "dawaa_stock": 87,
+   "dawaa_stock": 92,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "241505"
@@ -210,7 +210,7 @@
    "rmeez_price": null,
    "rmeez_qty": 35,
    "dawaa_price": 18.65,
-   "dawaa_stock": 2474,
+   "dawaa_stock": 2444,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "207154"
@@ -222,9 +222,9 @@
    "du": "https://www.al-dawaa.com/Category/Mum-and-Baby/Baby-Bath/Baby-Wash-%26-Soap/Pigeon%2C-Natural-Botanical-Baby-Head-%26-Body-Wash---200-Ml/p/237850",
    "code": "237850",
    "rmeez_price": null,
-   "rmeez_qty": 23,
+   "rmeez_qty": 22,
    "dawaa_price": 27.0,
-   "dawaa_stock": 469,
+   "dawaa_stock": 464,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "237850"
@@ -238,7 +238,7 @@
    "rmeez_price": null,
    "rmeez_qty": 8,
    "dawaa_price": 32.6,
-   "dawaa_stock": 2217,
+   "dawaa_stock": 2201,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "202770"
@@ -252,7 +252,7 @@
    "rmeez_price": null,
    "rmeez_qty": 24,
    "dawaa_price": 35.95,
-   "dawaa_stock": 8091,
+   "dawaa_stock": 7919,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "236694"
@@ -266,7 +266,7 @@
    "rmeez_price": null,
    "rmeez_qty": 8,
    "dawaa_price": 26.11,
-   "dawaa_stock": 1505,
+   "dawaa_stock": 1484,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "203466"
@@ -280,7 +280,7 @@
    "rmeez_price": null,
    "rmeez_qty": 9,
    "dawaa_price": 115.81,
-   "dawaa_stock": 559,
+   "dawaa_stock": 558,
    "dawaa_status": "inStock",
    "cheaper": null,
    "key": "241498"
