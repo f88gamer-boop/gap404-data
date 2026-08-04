@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04T01:13:45.281170+03:00",
- "updated_ksa": "2026-08-04 01:13",
+ "updated": "2026-08-05T01:18:42.651506+03:00",
+ "updated_ksa": "2026-08-05 01:18",
  "days_of_history": 3,
  "count": 20,
  "errors": 0,
@@ -14,7 +14,7 @@
    "rmeez_price": 35.5,
    "rmeez_qty": 10,
    "dawaa_price": 49.59,
-   "dawaa_stock": 828,
+   "dawaa_stock": 826,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "241188"
@@ -28,7 +28,7 @@
    "rmeez_price": 41.28,
    "rmeez_qty": 9,
    "dawaa_price": 45.0,
-   "dawaa_stock": 440,
+   "dawaa_stock": 441,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "237853"
@@ -56,7 +56,7 @@
    "rmeez_price": 41.28,
    "rmeez_qty": 4,
    "dawaa_price": 45.0,
-   "dawaa_stock": 460,
+   "dawaa_stock": 463,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "237849"
@@ -84,7 +84,7 @@
    "rmeez_price": 22.02,
    "rmeez_qty": 4,
    "dawaa_price": 26.0,
-   "dawaa_stock": 133,
+   "dawaa_stock": 132,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "234858"
@@ -98,7 +98,7 @@
    "rmeez_price": 22.02,
    "rmeez_qty": 4,
    "dawaa_price": 26.0,
-   "dawaa_stock": 138,
+   "dawaa_stock": 139,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "234859"
@@ -112,7 +112,7 @@
    "rmeez_price": 26.4,
    "rmeez_qty": 10,
    "dawaa_price": 35.95,
-   "dawaa_stock": 2917,
+   "dawaa_stock": 2919,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "205832"
@@ -126,7 +126,7 @@
    "rmeez_price": 26.4,
    "rmeez_qty": 5,
    "dawaa_price": 35.95,
-   "dawaa_stock": 2838,
+   "dawaa_stock": 2823,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "205833"
@@ -140,7 +140,7 @@
    "rmeez_price": 35.5,
    "rmeez_qty": 9,
    "dawaa_price": 49.59,
-   "dawaa_stock": 343,
+   "dawaa_stock": 342,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "241189"
@@ -154,7 +154,7 @@
    "rmeez_price": 22.5,
    "rmeez_qty": 21,
    "dawaa_price": 28.49,
-   "dawaa_stock": 952,
+   "dawaa_stock": 949,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "238443"
@@ -168,7 +168,7 @@
    "rmeez_price": 12.0,
    "rmeez_qty": 9,
    "dawaa_price": 25.76,
-   "dawaa_stock": 81,
+   "dawaa_stock": 79,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "241386"
@@ -210,7 +210,7 @@
    "rmeez_price": 14.79,
    "rmeez_qty": 35,
    "dawaa_price": 18.65,
-   "dawaa_stock": 2364,
+   "dawaa_stock": 2363,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "207154"
@@ -222,9 +222,9 @@
    "du": "https://www.al-dawaa.com/Category/Mum-and-Baby/Baby-Bath/Baby-Wash-%26-Soap/Pigeon%2C-Natural-Botanical-Baby-Head-%26-Body-Wash---200-Ml/p/237850",
    "code": "237850",
    "rmeez_price": 24.77,
-   "rmeez_qty": 22,
+   "rmeez_qty": 21,
    "dawaa_price": 27.0,
-   "dawaa_stock": 453,
+   "dawaa_stock": 452,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "237850"
@@ -238,7 +238,7 @@
    "rmeez_price": 21.68,
    "rmeez_qty": 8,
    "dawaa_price": 32.6,
-   "dawaa_stock": 2182,
+   "dawaa_stock": 2184,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "202770"
@@ -252,7 +252,7 @@
    "rmeez_price": 21.75,
    "rmeez_qty": 24,
    "dawaa_price": 35.95,
-   "dawaa_stock": 7215,
+   "dawaa_stock": 7235,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "236694"
@@ -266,7 +266,7 @@
    "rmeez_price": 17.4,
    "rmeez_qty": 8,
    "dawaa_price": 26.11,
-   "dawaa_stock": 1379,
+   "dawaa_stock": 1363,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "203466"
