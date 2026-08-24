@@ -1,7 +1,7 @@
 {
- "updated": "2026-08-24T00:29:09.234157+03:00",
- "updated_ksa": "2026-08-24 00:29",
- "days_of_history": 34,
+ "updated": "2026-08-25T00:37:02.611499+03:00",
+ "updated_ksa": "2026-08-25 00:37",
+ "days_of_history": 35,
  "count": 20,
  "errors": 0,
  "items": [
@@ -14,7 +14,7 @@
    "rmeez_price": 42.0,
    "rmeez_qty": 10,
    "dawaa_price": 49.59,
-   "dawaa_stock": 846,
+   "dawaa_stock": 844,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "241188"
@@ -56,7 +56,7 @@
    "rmeez_price": 45.87,
    "rmeez_qty": 4,
    "dawaa_price": 45.0,
-   "dawaa_stock": 448,
+   "dawaa_stock": 451,
    "dawaa_status": "inStock",
    "cheaper": "comp",
    "key": "237849"
@@ -112,7 +112,7 @@
    "rmeez_price": 33.0,
    "rmeez_qty": 10,
    "dawaa_price": 35.95,
-   "dawaa_stock": 2765,
+   "dawaa_stock": 2763,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "205832"
@@ -126,7 +126,7 @@
    "rmeez_price": 33.0,
    "rmeez_qty": 5,
    "dawaa_price": 35.95,
-   "dawaa_stock": 2274,
+   "dawaa_stock": 2250,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "205833"
@@ -210,7 +210,7 @@
    "rmeez_price": 16.44,
    "rmeez_qty": 35,
    "dawaa_price": 18.65,
-   "dawaa_stock": 2380,
+   "dawaa_stock": 2378,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "207154"
@@ -224,7 +224,7 @@
    "rmeez_price": 26.0,
    "rmeez_qty": 21,
    "dawaa_price": 27.0,
-   "dawaa_stock": 454,
+   "dawaa_stock": 455,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "237850"
@@ -238,7 +238,7 @@
    "rmeez_price": 25.5,
    "rmeez_qty": 8,
    "dawaa_price": 32.6,
-   "dawaa_stock": 2153,
+   "dawaa_stock": 2147,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "202770"
@@ -252,7 +252,7 @@
    "rmeez_price": 30.0,
    "rmeez_qty": 24,
    "dawaa_price": 35.95,
-   "dawaa_stock": 6993,
+   "dawaa_stock": 6995,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "236694"
@@ -266,7 +266,7 @@
    "rmeez_price": 29.0,
    "rmeez_qty": 8,
    "dawaa_price": 26.11,
-   "dawaa_stock": 1376,
+   "dawaa_stock": 1379,
    "dawaa_status": "inStock",
    "cheaper": "comp",
    "key": "203466"
