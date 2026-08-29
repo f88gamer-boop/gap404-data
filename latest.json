@@ -1,7 +1,7 @@
 {
- "updated": "2026-08-28T08:15:36.256336+03:00",
- "updated_ksa": "2026-08-28 08:15",
- "days_of_history": 38,
+ "updated": "2026-08-29T06:07:49.887136+03:00",
+ "updated_ksa": "2026-08-29 06:07",
+ "days_of_history": 39,
  "count": 20,
  "errors": 0,
  "items": [
@@ -14,7 +14,7 @@
    "rmeez_price": 35.5,
    "rmeez_qty": 10,
    "dawaa_price": 49.59,
-   "dawaa_stock": 842,
+   "dawaa_stock": 843,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "241188"
@@ -28,7 +28,7 @@
    "rmeez_price": 41.28,
    "rmeez_qty": 9,
    "dawaa_price": 45.0,
-   "dawaa_stock": 439,
+   "dawaa_stock": 440,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "237853"
@@ -40,7 +40,7 @@
    "du": "https://www.al-dawaa.com/Category/Mum-and-Baby/Baby-Bath/Lotion-%26-Cream/Pigeon%2C-Natural-Botanical-Baby-Milky-Lotion---200-Ml/p/237852",
    "code": "237852",
    "rmeez_price": 26.15,
-   "rmeez_qty": 3,
+   "rmeez_qty": 2,
    "dawaa_price": 29.0,
    "dawaa_stock": 48,
    "dawaa_status": "inStock",
@@ -54,9 +54,9 @@
    "du": "https://www.al-dawaa.com/Category/Mum-and-Baby/Baby-Bath/Shampoo-%26-Conditioner/Pigeon%2C-Natural-Botanical-Baby-Shampoo---500-Ml/p/237849",
    "code": "237849",
    "rmeez_price": 41.28,
-   "rmeez_qty": 4,
+   "rmeez_qty": 3,
    "dawaa_price": 45.0,
-   "dawaa_stock": 466,
+   "dawaa_stock": 465,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "237849"
@@ -112,7 +112,7 @@
    "rmeez_price": 26.4,
    "rmeez_qty": 10,
    "dawaa_price": 35.95,
-   "dawaa_stock": 2746,
+   "dawaa_stock": 2760,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "205832"
@@ -126,7 +126,7 @@
    "rmeez_price": 26.4,
    "rmeez_qty": 5,
    "dawaa_price": 35.95,
-   "dawaa_stock": 2203,
+   "dawaa_stock": 2173,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "205833"
@@ -154,7 +154,7 @@
    "rmeez_price": 22.5,
    "rmeez_qty": 21,
    "dawaa_price": 28.49,
-   "dawaa_stock": 985,
+   "dawaa_stock": 987,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "238443"
@@ -210,7 +210,7 @@
    "rmeez_price": 14.79,
    "rmeez_qty": 35,
    "dawaa_price": 18.65,
-   "dawaa_stock": 2359,
+   "dawaa_stock": 2355,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "207154"
@@ -224,7 +224,7 @@
    "rmeez_price": 24.77,
    "rmeez_qty": 21,
    "dawaa_price": 27.0,
-   "dawaa_stock": 457,
+   "dawaa_stock": 455,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "237850"
@@ -238,7 +238,7 @@
    "rmeez_price": 21.68,
    "rmeez_qty": 8,
    "dawaa_price": 32.6,
-   "dawaa_stock": 2142,
+   "dawaa_stock": 2149,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "202770"
@@ -252,7 +252,7 @@
    "rmeez_price": 21.75,
    "rmeez_qty": 24,
    "dawaa_price": 35.95,
-   "dawaa_stock": 7088,
+   "dawaa_stock": 7085,
    "dawaa_status": "inStock",
    "cheaper": "you",
    "key": "236694"
@@ -278,7 +278,7 @@
    "du": "https://www.al-dawaa.com/Category/Mum-and-Baby/Baby-Feeding/Breastfeeding-Essentials/Lansinoh%2C-Breastmilk-Storage-Bottles-160-Ml-Capacity---4-Pcs/p/241498",
    "code": "241498",
    "rmeez_price": 97.75,
-   "rmeez_qty": 9,
+   "rmeez_qty": 8,
    "dawaa_price": 115.81,
    "dawaa_stock": 555,
    "dawaa_status": "inStock",
